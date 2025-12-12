@@ -1,2 +1,2 @@
 # Vidoid
-Video Streaming App - Youtube v3 API
+Video Streaming App - React.js, Material UI, Youtube v3 API
